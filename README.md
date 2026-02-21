@@ -9,7 +9,7 @@ I ONLY UPLOAD & UPDATE AT GITHUB NO OTHER PLACE!
 🔐 _**Encrypt Tool – Drag & Drop File Encryption**_
 A Windows Forms application for file encryption with a simple and modular interface. Supports drag‑and‑drop, custom password generation, log management, and a plugin system to extend encryption functionality.
 
-# 🧩 _**Key Features**_
+ 🧩 _**Key Features**_
 Drag & Drop File Encryption
 
 Drag files directly into the application to encrypt them.
@@ -22,7 +22,7 @@ Secure random algorithm that is user‑friendly.
 
 Flexible password formats to fit user needs.
 
-💬_**Log Management**_
+ 💬 _**Log Management**_
 
 Automatic log rotation.
 
@@ -36,7 +36,7 @@ Button to manually select files.
 
 Progress bar and status label for real‑time feedback.
 
-_**❗ Plugin System (WIP)**_
+ _**❗ Plugin System (WIP)**_
 
 Plugins/ folder for external DLLs.
 
@@ -44,7 +44,7 @@ Plugin manager UI: enable/disable, load/unload.
 
 Example plugin: Caesar Cipher.
 
-OWNER/CODER:MELTAGROUND
+_**OWNER/CODER:MELTAGROUND**_
 
 # Copyright © 2026 MELTAGROUND. All Rights Reserved.
 
